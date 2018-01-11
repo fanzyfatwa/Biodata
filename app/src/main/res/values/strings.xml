@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nama">Nama:</string>
+    <string name="alamat">Alamat:</string>
+    <string name="ttl">Tempat Tanggal Lahir:</string>
+    <string name="jurusan">Jurusan:</string>
+    <string name="fanzy_fatwalillah">Fanzy Fatwalillah</string>
+    <string name="kosan_bu_dewi_mantapp">Kosan Bu Dewi Mantapp</string>
+    <string name="sukabumi_05_januari_1996">Sukabumi, 05 Januari 1996</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+</resources>
